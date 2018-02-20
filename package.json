@@ -1,5 +1,5 @@
 {
-  "name": "documentation",
+  "name": "documentation-fork",
   "description": "a documentation generator",
   "version": "5.4.0",
   "author": "Tom MacWright",
@@ -23,7 +23,7 @@
     "chokidar": "^2.0.0",
     "concat-stream": "^1.6.0",
     "disparity": "^2.0.0",
-    "doctrine-temporary-fork": "2.0.0-alpha-allowarrayindex",
+    "doctrine-fork": "^2.1.0",
     "get-port": "^3.2.0",
     "git-url-parse": "^8.0.0",
     "github-slugger": "1.2.0",

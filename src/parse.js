@@ -1,6 +1,6 @@
 /* @flow */
 
-const doctrine = require('doctrine-temporary-fork');
+const doctrine = require('doctrine-fork');
 const parseMarkdown = require('./parse_markdown');
 
 /**

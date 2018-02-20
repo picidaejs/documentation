@@ -1933,6 +1933,12 @@ disparity@^2.0.0:
     ansi-styles "^2.0.1"
     diff "^1.3.2"
 
+doctrine-fork@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/doctrine-fork/-/doctrine-fork-2.1.0.tgz#a44fa2978c4aab77704ae364403236c08e40b829"
+  dependencies:
+    esutils "^2.0.2"
+
 doctrine-temporary-fork@2.0.0-alpha-allowarrayindex:
   version "2.0.0-alpha-allowarrayindex"
   resolved "https://registry.yarnpkg.com/doctrine-temporary-fork/-/doctrine-temporary-fork-2.0.0-alpha-allowarrayindex.tgz#40015a867eb27e75b26c828b71524f137f89f9f0"

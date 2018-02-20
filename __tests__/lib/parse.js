@@ -334,6 +334,18 @@ test('parse - @example', function() {
   expect(
     evaluate(function() {
       /**
+       * @example
+       * \@dec
+       * class A {}
+       */
+    })[0].examples[0]
+  ).toEqual({
+    description: '@dec\nclass A {}'
+  });
+
+  expect(
+    evaluate(function() {
+      /**
        * @example <caption>caption</caption>
        * a
        * b
